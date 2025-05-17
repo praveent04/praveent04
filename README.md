@@ -3,7 +3,6 @@
 <p align="center">
   🎓 B.Tech Undergraduate in Aerospace Engineering at <b>IIT Kharagpur</b><br/>
   💻 Passionate Developer | Open Source Enthusiast | Competitive Programmer<br/>
-  📸 Photographer @ Click KGP | 📡 NCC Platoon Commander
 </p>
 
 ---
@@ -51,25 +50,13 @@
   <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
 </p>
 
----
 
-### 📂 Featured Projects
-- 🔗 [**Host-It**](https://github.com/praveent04/host-it): GitHub-integrated app hosting (Node.js, AWS, Docker)
-- 🔗 [**URL Shortener**](https://github.com/praveent04/URL_Short): Fast and customizable Go-based link shortener
-- 🔗 [**Vcall**](https://github.com/praveent04/Vcall): Real-time video conferencing app with screen sharing
-- 🔗 [**Path Visualizer**](https://github.com/praveent04/path-visualizer): Pathfinding algorithms visualized in the browser
 
 ---
 
-### 🏆 Achievements
-- 🥇 Codeforces max rating: **1428**  
-- 🧠 Solved **250+ problems** on LeetCode  
-- 🧮 JEE Mains: Top **0.1%** | JEE Advanced: Top **1%**
-
----
 
 ### 🎨 Fun Fact
-I'm as comfortable with the camera as I am with code — 📸 Photographer @ Click KGP, and a former NCC Platoon Commander 🚩 at IIT Kharagpur.
+I'm as comfortable with the camera as I am with code — 📸 Photographer @ Click KGP at IIT Kharagpur.
 
 ---
 
