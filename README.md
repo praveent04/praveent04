@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Praveen Tiwari</h1>
 
 <p align="center">
-  🎓 B.Tech Undergraduate in Aerospace Engineering at <b>IIT Kharagpur</b><br/>
+  🎓 Undergraduate in Aerospace Engineering at <b>IIT Kharagpur</b><br/>
   💻 Passionate Developer | Open Source Enthusiast | Competitive Programmer<br/>
 </p>
 
